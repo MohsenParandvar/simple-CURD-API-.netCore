@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MhsnApi", "MhsnApi\MhsnApi.csproj", "{121831EC-F7B1-46C2-AE3A-794C739B362A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121831EC-F7B1-46C2-AE3A-794C739B362A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121831EC-F7B1-46C2-AE3A-794C739B362A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121831EC-F7B1-46C2-AE3A-794C739B362A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121831EC-F7B1-46C2-AE3A-794C739B362A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {171649C4-07CB-4C43-BFEE-133DD77EA89C}
+	EndGlobalSection
+EndGlobal
